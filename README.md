@@ -49,9 +49,7 @@ public class CountVowels {
     }
 }
 4. Count Consonants in String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class CountConsonants {
@@ -68,9 +66,7 @@ public class CountConsonants {
     }
 }
 5. Count Words in a String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class CountWords {
@@ -88,9 +84,7 @@ public class CountWords {
     }
 }
 6. Find Largest Word in String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class LargestWord {
