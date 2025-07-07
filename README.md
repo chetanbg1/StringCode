@@ -1,9 +1,7 @@
 # StringCode
 
 1. Reverse a String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class ReverseString {
@@ -17,9 +15,7 @@ public class ReverseString {
     }
 }
 2. Check if String is Palindrome
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class PalindromeCheck {
@@ -36,9 +32,7 @@ public class PalindromeCheck {
     }
 }
 3. Count Vowels in String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class CountVowels {
