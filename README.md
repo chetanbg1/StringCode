@@ -102,9 +102,6 @@ public class LargestWord {
     }
 }
 7. Check if Two Strings are Anagrams
-java
-Copy
-Edit
 import java.util.Arrays;
 import java.util.Scanner;
 
