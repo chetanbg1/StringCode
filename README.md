@@ -129,9 +129,6 @@ public class AnagramCheck {
     }
 }
 8. Remove Duplicates from String
-java
-Copy
-Edit
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
@@ -149,9 +146,6 @@ public class RemoveDuplicates {
     }
 }
 9. Count Occurrences of Character
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class CharOccurrences {
@@ -170,9 +164,6 @@ public class CharOccurrences {
     }
 }
 10. Replace Spaces with Underscores
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ReplaceSpaces {
@@ -186,9 +177,6 @@ public class ReplaceSpaces {
     }
 }
 11. Convert String to Uppercase
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ToUpperCase {
@@ -201,9 +189,6 @@ public class ToUpperCase {
     }
 }
 12. Convert String to Lowercase
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ToLowerCase {
@@ -216,9 +201,6 @@ public class ToLowerCase {
     }
 }
 13. Capitalize First Letter of Each Word
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class CapitalizeWords {
@@ -240,9 +222,6 @@ public class CapitalizeWords {
     }
 }
 14. Check if String Contains Only Digits
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class IsNumeric {
@@ -258,9 +237,6 @@ public class IsNumeric {
     }
 }
 15. Remove All Whitespaces
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class RemoveWhitespaces {
@@ -274,9 +250,6 @@ public class RemoveWhitespaces {
     }
 }
 16. Find the First Non-Repeating Character
-java
-Copy
-Edit
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -305,9 +278,7 @@ public class FirstNonRepeatingChar {
     }
 }
 17. Check if Two Strings are Rotations
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class RotationCheck {
@@ -325,9 +296,6 @@ public class RotationCheck {
     }
 }
 18. Count Number of Sentences in a String
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class SentenceCount {
@@ -345,9 +313,7 @@ public class SentenceCount {
     }
 }
 19. Find the Index of First Vowel
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class FirstVowelIndex {
@@ -370,9 +336,7 @@ public class FirstVowelIndex {
     }
 }
 20. Count Occurrences of Each Character
-java
-Copy
-Edit
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -394,9 +358,6 @@ public class CharOccurrencesCount {
     }
 }
 21. Remove All Non-Alphanumeric Characters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class RemoveNonAlphanumeric {
@@ -410,9 +371,6 @@ public class RemoveNonAlphanumeric {
     }
 }
 22. Count Number of Digits in String
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class DigitCount {
@@ -429,9 +387,6 @@ public class DigitCount {
     }
 }
 23. Remove Duplicate Words from Sentence
-java
-Copy
-Edit
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
@@ -448,9 +403,6 @@ public class RemoveDuplicateWords {
     }
 }
 24. Reverse Each Word in Sentence
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ReverseEachWord {
@@ -468,9 +420,6 @@ public class ReverseEachWord {
     }
 }
 25. Check if String is a Valid Email (Simple Regex)
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class EmailValidator {
@@ -486,9 +435,6 @@ public class EmailValidator {
     }
 }
 26. Count Number of Special Characters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class SpecialCharCount {
@@ -505,9 +451,6 @@ public class SpecialCharCount {
     }
 }
 27. Check if String is a Valid IPv4 Address
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class IPv4Validator {
@@ -533,9 +476,6 @@ public class IPv4Validator {
     }
 }
 28. Find the Longest Palindromic Substring (Simple Approach)
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class LongestPalindromeSubstring {
@@ -569,9 +509,6 @@ public class LongestPalindromeSubstring {
     }
 }
 29. Check if String Ends With Another String
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class EndsWithCheck {
@@ -586,9 +523,6 @@ public class EndsWithCheck {
     }
 }
 30. Count the Number of Lines in a Multiline String
-java
-Copy
-Edit
 public class LineCount {
     public static void main(String[] args) {
         String multiline = "Hello\nWorld\nThis is a test\nJava";
@@ -597,9 +531,6 @@ public class LineCount {
     }
 }
 31. Check if String Starts with Another String
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class StartsWithCheck {
@@ -614,9 +545,6 @@ public class StartsWithCheck {
     }
 }
 32. Count Number of Uppercase Letters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class UppercaseCount {
@@ -633,9 +561,6 @@ public class UppercaseCount {
     }
 }
 33. Count Number of Lowercase Letters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class LowercaseCount {
@@ -652,9 +577,6 @@ public class LowercaseCount {
     }
 }
 34. Find All Indexes of a Character
-java
-Copy
-Edit
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -678,9 +600,6 @@ public class AllIndexesOfChar {
     }
 }
 35. Convert String to Char Array
-java
-Copy
-Edit
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -695,9 +614,6 @@ public class StringToCharArray {
     }
 }
 36. Check if String Contains Another String (Substring)
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ContainsSubstring {
@@ -712,9 +628,6 @@ public class ContainsSubstring {
     }
 }
 37. Remove First and Last Character
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class RemoveFirstLastChar {
@@ -731,9 +644,6 @@ public class RemoveFirstLastChar {
     }
 }
 38. Swap First and Last Characters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class SwapFirstLastChar {
@@ -751,9 +661,6 @@ public class SwapFirstLastChar {
     }
 }
 39. Repeat a String N Times
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class RepeatString {
@@ -772,9 +679,6 @@ public class RepeatString {
     }
 }
 40. Check if String Contains Only Letters
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class OnlyLettersCheck {
@@ -790,9 +694,6 @@ public class OnlyLettersCheck {
     }
 }
 41. Remove Leading and Trailing Spaces
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class TrimSpaces {
@@ -805,9 +706,7 @@ public class TrimSpaces {
     }
 }
 42. Print String in Alternate Characters
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class AlternateCharacters {
@@ -824,11 +723,7 @@ public class AlternateCharacters {
     }
 }
 43. Check if String is Empty or Blank
-java
-Copy
-Edit
 import java.util.Scanner;
-
 public class EmptyOrBlank {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -844,9 +739,6 @@ public class EmptyOrBlank {
     }
 }
 44. Extract Substring from Index i to j
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class SubstringExtract {
@@ -867,9 +759,6 @@ public class SubstringExtract {
     }
 }
 45. Compare Two Strings Ignoring Case
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class CompareIgnoreCase {
@@ -884,9 +773,7 @@ public class CompareIgnoreCase {
     }
 }
 46. Insert a String into Another String at Given Position
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class InsertString {
@@ -908,9 +795,6 @@ public class InsertString {
     }
 }
 47. Remove All Occurrences of a Character
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class RemoveCharacter {
@@ -926,9 +810,6 @@ public class RemoveCharacter {
     }
 }
 48. Convert String to ASCII Values Array
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class StringToAscii {
@@ -946,9 +827,6 @@ public class StringToAscii {
     }
 }
 49. Check if String is a Valid URL (Simple Regex)
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class URLValidator {
@@ -962,9 +840,6 @@ public class URLValidator {
     }
 }
 50. Extract Numbers from String
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class ExtractNumbers {
@@ -996,9 +871,6 @@ public class WordsStartingWithVowel {
     }
 }
 52. Count Number of Words Ending with Consonant
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class WordsEndingWithConsonant {
@@ -1019,9 +891,7 @@ public class WordsEndingWithConsonant {
     }
 }
 53. Reverse Words in a Sentence
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class ReverseWordsInSentence {
@@ -1039,9 +909,7 @@ public class ReverseWordsInSentence {
     }
 }
 54. Capitalize First Letter of Each Word
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class CapitalizeWords {
@@ -1061,9 +929,7 @@ public class CapitalizeWords {
     }
 }
 55. Remove Duplicate Characters from String
-java
-Copy
-Edit
+
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
@@ -1082,9 +948,7 @@ public class RemoveDuplicateChars {
     }
 }
 56. Find Frequency of Each Character
-java
-Copy
-Edit
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -1105,9 +969,6 @@ public class CharFrequency {
     }
 }
 57. Check if Two Strings are Anagrams
-java
-Copy
-Edit
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -1127,9 +988,6 @@ public class AnagramCheck {
     }
 }
 58. Count Vowels and Consonants
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class VowelConsonantCount {
@@ -1150,9 +1008,6 @@ public class VowelConsonantCount {
     }
 }
 59. Find First Non-Repeated Character
-java
-Copy
-Edit
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -1176,9 +1031,7 @@ public class FirstNonRepeatedChar {
     }
 }
 60. Check if String Contains Only Digits
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class OnlyDigitsCheck {
@@ -1191,9 +1044,7 @@ public class OnlyDigitsCheck {
     }
 }
 61. Count Number of Sentences in a String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class SentenceCount {
@@ -1740,9 +1591,7 @@ public class ToggleCase {
     }
 }
 87. Check if String Contains Only Whitespaces
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class OnlyWhitespace {
@@ -1755,9 +1604,7 @@ public class OnlyWhitespace {
     }
 }
 88. Remove Leading and Trailing Zeros from a String
-java
-Copy
-Edit
+
 import java.util.Scanner;
 
 public class RemoveLeadingTrailingZeros {
@@ -1773,9 +1620,6 @@ public class RemoveLeadingTrailingZeros {
     }
 }
 89. Count Number of Sentences Ending with a Question Mark
-java
-Copy
-Edit
 import java.util.Scanner;
 
 public class CountQuestionSentences {
